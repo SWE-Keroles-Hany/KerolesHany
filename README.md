@@ -141,6 +141,11 @@ cations, Google Maps, Theming, Localization, and uploading apps to Google Play &
 - 📱 **Flutter Development Diploma** – Route Academy  
   Learned UI design, state management, Firebase integration, and clean architecture in Flutter.
 
+- 💳 **Flutter Payment Integration: Stripe, PayPal & More** – (07/2025)  
+  [🎓 Certificate](https://drive.google.com/file/d/1fePpMiysF_xDjyq4PLzS1padHp58MOAg/view?usp=sharing)  
+  Built and integrated secure payment systems (**Stripe**, **PayPal**) into Flutter apps using **Cubit** and **Clean Architecture**.  
+  **Tech Stack:** Flutter, Cubit, Stripe, PayPal, Clean Architecture  
+
 ---
 
 ## 🌍 Languages
