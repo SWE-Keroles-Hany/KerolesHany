@@ -33,55 +33,20 @@ cations, Google Maps, Theming, Localization, and uploading apps to Google Play &
 ---
 
 ## 💼 Projects
-# 😊 Mood J
-
+### 😊 [Mood J](https://github.com/KerolesHany/mood-j/tree/development)  
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?logo=databricks&logoColor=white)]()
 [![Localization](https://img.shields.io/badge/Localization-FFB300?logo=google-translate&logoColor=white)]()
 [![Notifications](https://img.shields.io/badge/Notifications-FF5252?logo=bell&logoColor=white)]()
 
-### 💡 Overview  
-A **mood-tracking app** that helps users log, monitor, and analyze their emotions.
-
+- A **mood-tracking app** that helps users log, monitor, and analyze their emotions.  
 - Built with **Flutter**, using **SQL (Local Storage)** for data persistence.  
-- Designed with **Clean Architecture** for maintainable and scalable code.  
+- Designed with **Clean Architecture** for maintainable and scalable structure.  
 - Integrated **Local Notifications** to remind users to track their moods.  
-- Supports **Localization** to switch between multiple languages.  
-- Includes features to **add, delete, and view moods** (text, emoji, photo, or voice notes).  
+- Supported **Localization** for multi-language experience.  
+- Includes features to **add, delete, and view moods** with text, emoji, photo, or voice notes.  
 - Provides **statistics and insights** based on mood history.  
-
----
-
-### 📱 Features  
-- Add, delete, and update moods.  
-- Attach description, emoji, image, or voice note.  
-- View a list of all moods.  
-- Track mood trends through simple statistics.  
-- Receive daily reminders via notifications.  
-- Switch app language (Localization).  
-
----
-
-### 🧠 Tech Stack  
-- **Flutter**  
-- **SQLite (Local Storage)**  
-- **Clean Architecture**  
-- **Cubit (BLoC)**  
-- **Local Notifications**  
-- **Localization (Intl)**  
-
----
-
-### 🔗 Repository  
-👉 [Mood J on GitHub](https://github.com/KerolesHany/mood-j/tree/development)
-
-### 💬 [Chat App](https://github.com/KerolesHany/chat-app)  
-- A real-time chat app where users can **create rooms**, set a **topic**, and chat with friends about it.  
-- Implemented **Clean Architecture** and **Repository Pattern** for scalable code.  
-- Used **Firebase Authentication** for secure login/signup.  
-- Integrated **Cloud Firestore Streams** for real-time chat updates.  
-- Managed state with **Cubit (BLoC)** and applied **Firebase Error Handling** for smooth user experience.  
 
 ### 🛒 [E-Commerce App](https://github.com/KerolesHany/e-commerce-app)  
 - Developed a complete e-commerce app with product browsing, cart, and checkout features.  
