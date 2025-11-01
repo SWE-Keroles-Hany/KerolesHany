@@ -13,10 +13,33 @@
 
 ---
 
-## 🧑‍💻 Summary
+<h2>🧑‍💻 Summary</h2>
 
-Hi, I'm Keroles, a passionate **Flutter Mobile App Developer** specialized in building modern, scalable, and user-friendly apps for **iOS & Android**.  
-I turn ideas into high-quality mobile applications with smooth performance and attractive designs. My focus is on delivering fast, reliable, and cross-platform solutions that enhance user experience. I also handle publishing on **Google Play** & **Apple App Store** while ensuring ongoing support and updates. With strong problem-solving skills, I continuously learn new technologies to bring your vision to life.  
+<p>
+  Flutter Developer with strong skills in building
+  <strong>modern</strong>, <strong>responsive</strong>, and
+  <strong>user-friendly</strong> mobile apps for <strong>iOS</strong> and
+  <strong>Android</strong>.
+</p>
+
+<p>
+  Experienced in
+  <strong>Flutter</strong>, <strong>Firebase</strong>, <strong>Cubit/Provider</strong>,
+  <strong>Clean Architecture</strong>, and integrating
+  <strong>REST APIs</strong>, <strong>Hive</strong>, and <strong>SQLite</strong>.
+</p>
+
+<p>
+  Skilled in <strong>Payments</strong>, <strong>Notifications</strong>,
+  <strong>Google Maps</strong>, <strong>Theming</strong>, <strong>Localization</strong>,
+  and uploading apps to <strong>Google Play</strong> &amp; <strong>App Store</strong>.
+</p>
+
+<p>
+  Passionate about <strong>problem-solving</strong>, applying
+  <strong>SOLID principles</strong>, and delivering
+  <strong>high-quality, scalable</strong> applications.
+</p>
 
 ---
 
