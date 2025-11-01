@@ -13,34 +13,10 @@
 
 ---
 
-<h2>🧑‍💻 Summary</h2>
-
-<p>
-  Flutter Developer with strong skills in building
-  <strong>modern</strong>, <strong>responsive</strong>, and
-  <strong>user-friendly</strong> mobile apps for <strong>iOS</strong> and
-  <strong>Android</strong>.
-</p>
-
-<p>
-  Experienced in
-  <strong>Flutter</strong>, <strong>Firebase</strong>, <strong>Cubit/Provider</strong>,
-  <strong>Clean Architecture</strong>, and integrating
-  <strong>REST APIs</strong>, <strong>Hive</strong>, and <strong>SQLite</strong>.
-</p>
-
-<p>
-  Skilled in <strong>Payments</strong>, <strong>Notifications</strong>,
-  <strong>Google Maps</strong>, <strong>Theming</strong>, <strong>Localization</strong>,
-  and uploading apps to <strong>Google Play</strong> &amp; <strong>App Store</strong>.
-</p>
-
-<p>
-  Passionate about <strong>problem-solving</strong>, applying
-  <strong>SOLID principles</strong>, and delivering
-  <strong>high-quality, scalable</strong> applications.
-</p>
-
+Flutter Developer with strong skills in building modern, responsive, and user-friendly mobile apps for iOS and Android. Experienced
+ in Flutter, Firebase, Cubit/Provider, Clean Architecture, and integrating REST APIs, Hive, and SQLite. Skilled in Payments, Notifi
+cations, Google Maps, Theming, Localization, and uploading apps to Google Play & App Store. Passionate about problem-solving,
+ applying SOLID principles, and delivering high-quality, scalable applications
 ---
 
 ## 🛠️ Technical Skills
