@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Keroles Hany Helmey
-
-🎓 Computer Science Student | 📱 Flutter Developer | 🇪🇬 Based in Egypt
-
+📱 Flutter Developer | 🇪🇬 Based in Egypt
 ---
 
 ## 📬 Contact Me
