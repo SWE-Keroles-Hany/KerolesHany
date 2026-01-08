@@ -1,156 +1,197 @@
-# 👋 Hi there, I'm Keroles Hany Helmey
-📱 Flutter Developer | 🇪🇬 Based in Egypt
----
+<h1 align="center">👋 Hi there, I'm Keroles Hany Helmey</h1>
+<p align="center">
+  📱 Flutter Developer | 🇪🇬 Based in Egypt
+</p>
 
-## 📬 Contact Me
+<hr/>
 
-- 📧 Email: [keroleshany293@gmail.com](mailto:keroleshany293@gmail.com)  
-- 📱 Phone: +20 128 072 7579  
-- 🌐 LinkedIn: [linkedin.com/in/keroles-hany](https://linkedin.com/in/keroles-hany)  
-- 💻 GitHub: [github.com/KerolesHany](https://github.com/KerolesHany)
+<h2>📬 Contact Me</h2>
+<ul>
+  <li>📧 Email: <a href="mailto:keroleshany293@gmail.com">keroleshany293@gmail.com</a></li>
+  <li>📱 Phone: +20 128 072 7579</li>
+  <li>🌐 LinkedIn: <a href="https://linkedin.com/in/keroles-hany">linkedin.com/in/keroles-hany</a></li>
+  <li>💻 GitHub: <a href="https://github.com/KerolesHany">github.com/KerolesHany</a></li>
+</ul>
 
----
+<hr/>
 
-## 🧑‍💻 Summary
-Flutter Developer with strong skills in building modern, responsive, and user-friendly mobile apps for iOS and Android. Experienced
- in Flutter, Firebase, Cubit/Provider, Clean Architecture, and integrating REST APIs, Hive, and SQLite. Skilled in Payments, Notifi
-cations, Google Maps, Theming, Localization, and uploading apps to Google Play & App Store. Passionate about problem-solving,
- applying SOLID principles, and delivering high-quality, scalable applications
----
+<h2>🧑‍💻 Professional Summary</h2>
+<p>
+Flutter Developer with strong experience in building <b>modern, responsive, and scalable mobile applications</b> for
+<b>iOS and Android</b>. Skilled in <b>Flutter, Firebase, Cubit/Provider, Clean Architecture</b>, and
+<b>REST API integration</b>.
+</p>
+<p>
+Hands-on experience with <b>Payments, Notifications, Google Maps, Localization, Theming</b>, and publishing apps on
+<b>Google Play & App Store</b>. Passionate about <b>problem-solving</b>, applying <b>SOLID principles</b>, and
+delivering <b>high-quality maintainable code</b>.
+</p>
 
-## 🛠️ Technical Skills
+<hr/>
 
-- **Programming Languages:** Java, C, C++, Python, Dart  
-- **Mobile App Development:** Flutter, Firebase, State Management (Cubit, Provider), Theming, Localization, Authentication, Maps, Payment Integration, Notifications, Responsive UI  
-- **Software Engineering:** OOP, Data Structures, Algorithms, Problem-Solving, Agile Methodology  
-- **Architecture & Design Patterns:** Clean Architecture, MVVM, SOLID Principles  
-- **Databases:** MySQL, Firebase  
-- **Version Control & Collaboration:** Git, GitHub  
-- **Tools & Platforms:** Visual Studio Code, Android Studio, Postman, Figma, Firebase CLI  
+<h2>🛠️ Technical Skills</h2>
 
----
-## 💼 Projects
+<h3>💻 Programming Languages</h3>
+<ul>
+  <li>Java, C, C++, Python, Dart</li>
+</ul>
 
-### 😊 [Mood J](https://github.com/KerolesHany/mood-j/tree/development)  
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?logo=databricks&logoColor=white)]()
-[![Localization](https://img.shields.io/badge/Localization-FFB300?logo=google-translate&logoColor=white)]()
-[![Notifications](https://img.shields.io/badge/Notifications-FF5252?logo=bell&logoColor=white)]()
+<h3>📱 Mobile App Development</h3>
+<ul>
+  <li>Flutter, Firebase</li>
+  <li>State Management: Cubit, Provider</li>
+  <li>Authentication, Google Maps</li>
+  <li>Payment Integration (Stripe, PayPal)</li>
+  <li>Push & Local Notifications</li>
+  <li>Responsive UI, Theming, Localization</li>
+</ul>
 
-- A **mood-tracking app** that helps users log, monitor, and analyze their emotions.  
-- Built with **Flutter**, using **SQL (Local Storage)** for data persistence.  
-- Designed with **Clean Architecture** for maintainable and scalable structure.  
-- Integrated **Local Notifications** to remind users to track their moods.  
-- Supported **Localization** for multi-language experience.  
-- Includes features to **add, delete, and view moods** with text, emoji, photo, or voice notes.  
-- Provides **statistics and insights** based on mood history.  
+<h3>🏗 Software Engineering</h3>
+<ul>
+  <li>OOP, Data Structures, Algorithms</li>
+  <li>Problem Solving, Agile Methodology</li>
+</ul>
 
----
+<h3>🧩 Architecture & Design Patterns</h3>
+<ul>
+  <li>Clean Architecture, MVVM</li>
+  <li>SOLID Principles, Repository Pattern</li>
+</ul>
 
-### 💬 [Chat App](https://github.com/KerolesHany/chat-app)  
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)](https://firebase.google.com/)
-[![Cubit](https://img.shields.io/badge/Cubit-007ACC?logo=bloc&logoColor=white)]()
-[![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?logo=databricks&logoColor=white)]()
+<h3>🗄 Databases</h3>
+<ul>
+  <li>Firebase, MySQL, SQLite</li>
+</ul>
 
-- A real-time chat app where users can **create rooms**, set a **topic**, and chat with friends about it.  
-- Implemented **Clean Architecture** and **Repository Pattern** for scalable code.  
-- Used **Firebase Authentication** for secure login/signup.  
-- Integrated **Cloud Firestore Streams** for real-time chat updates.  
-- Managed state with **Cubit (BLoC)** and handled Firebase errors smoothly.  
+<h3>🔧 Tools & Platforms</h3>
+<ul>
+  <li>Git, GitHub</li>
+  <li>Android Studio, VS Code</li>
+  <li>Postman, Figma, Firebase CLI</li>
+</ul>
 
----
+<hr/>
 
-### 🛒 [E-Commerce App](https://github.com/KerolesHany/e-commerce-app)  
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)]()
-[![API](https://img.shields.io/badge/REST%20API-1E88E5?logo=fastapi&logoColor=white)]()
-[![Cubit](https://img.shields.io/badge/Cubit-007ACC?logo=bloc&logoColor=white)]()
-[![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-43A047?logo=git&logoColor=white)]()
+<h2>💼 Projects</h2>
 
-- A complete **e-commerce app** with product browsing, cart, and checkout.  
-- Implemented **Cubit** and **Repository Pattern** for scalable architecture.  
-- Integrated **REST API** for dynamic product data.  
-- Designed a clean and responsive UI for smooth shopping experience.  
+<h3>😊 Mood J</h3>
+<p>
+<a href="https://github.com/KerolesHany/mood-j/tree/development">GitHub Repository</a>
+</p>
+<ul>
+  <li>Mood tracking app to log and analyze daily emotions.</li>
+  <li>Built with Flutter and local SQLite storage.</li>
+  <li>Clean Architecture for scalability and maintainability.</li>
+  <li>Local notifications & multi-language support.</li>
+  <li>Supports text, emoji, photo, and voice notes.</li>
+</ul>
 
----
+<h3>🍔 Hungry App (Food App)</h3>
+<p>
+<a href="https://github.com/SWE-Keroles-Hany/hungry-app/tree/development">GitHub Repository</a>
+</p>
+<ul>
+  <li>Food ordering app for browsing restaurants and meals.</li>
+  <li>Built using Flutter with clean and responsive UI.</li>
+  <li>Implemented Cubit for state management.</li>
+  <li>Integrated REST APIs for dynamic food data.</li>
+  <li>Focused on performance, UX, and scalable structure.</li>
+</ul>
 
-### 🎬 [Movies App](https://github.com/KerolesHany/Movies-App/tree/development)  
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)]()
-[![API](https://img.shields.io/badge/REST%20API-1E88E5?logo=themoviedatabase&logoColor=white)]()
-[![Cubit](https://img.shields.io/badge/Cubit-007ACC?logo=bloc&logoColor=white)]()
-[![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?logo=databricks&logoColor=white)]()
+<h3>💬 Chat App</h3>
+<p>
+<a href="https://github.com/KerolesHany/chat-app">GitHub Repository</a>
+</p>
+<ul>
+  <li>Real-time chat application with room-based discussions.</li>
+  <li>Firebase Authentication and Cloud Firestore Streams.</li>
+  <li>Clean Architecture with Cubit (BLoC).</li>
+</ul>
 
-- A full-featured **movie browsing app** using Flutter and REST API.  
-- Implemented **Clean Architecture**, **Cubit**, and **Repository Pattern**.  
-- Supports **categorized browsing**, loading & error states, and adaptive UI.  
+<h3>🛒 E-Commerce App</h3>
+<p>
+<a href="https://github.com/KerolesHany/e-commerce-app">GitHub Repository</a>
+</p>
+<ul>
+  <li>Complete shopping experience with cart and checkout.</li>
+  <li>REST API integration and Cubit state management.</li>
+  <li>Repository Pattern for scalable codebase.</li>
+</ul>
 
----
+<h3>🎬 Movies App</h3>
+<p>
+<a href="https://github.com/KerolesHany/Movies-App/tree/development">GitHub Repository</a>
+</p>
+<ul>
+  <li>Movie browsing app using REST API.</li>
+  <li>Clean Architecture with Cubit.</li>
+  <li>Loading, error handling, and adaptive UI.</li>
+</ul>
 
-### 🔥 [News App](https://github.com/KerolesHany/News-App/tree/development)  
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)]()
-[![API](https://img.shields.io/badge/REST%20API-1E88E5?logo=postman&logoColor=white)]()
-[![Cubit](https://img.shields.io/badge/Cubit-007ACC?logo=bloc&logoColor=white)]()
-[![MVVM](https://img.shields.io/badge/MVVM-8E24AA?logo=model&logoColor=white)]()
+<h3>🔥 News App</h3>
+<p>
+<a href="https://github.com/KerolesHany/News-App/tree/development">GitHub Repository</a>
+</p>
+<ul>
+  <li>Categorized news app with live API data.</li>
+  <li>MVVM architecture with Cubit.</li>
+  <li>Responsive and clean UI.</li>
+</ul>
 
-- A **categorized news app** fetching live data via API.  
-- Applied **MVVM**, **Cubit**, and **Repository Pattern** for clean architecture.  
-- Built with responsive design and real-time updates.  
+<h3>✅ To-Do App</h3>
+<p>
+<a href="https://github.com/KerolesHany/To-Do-App/tree/todoapp">GitHub Repository</a>
+</p>
+<ul>
+  <li>Task management app using Provider.</li>
+  <li>Firebase Authentication & Firestore.</li>
+</ul>
 
----
+<h3>🩸 Blood Bank App (Private)</h3>
+<ul>
+  <li>Blood donation tracking app.</li>
+  <li>Firebase Realtime Database.</li>
+  <li>Donation reminders every 3 months.</li>
+</ul>
 
-### ✅ [To-Do App](https://github.com/KerolesHany/To-Do-App/tree/todoapp)  
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)]()
-[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)]()
-[![Provider](https://img.shields.io/badge/Provider-1565C0?logo=provider&logoColor=white)]()
+<hr/>
 
-- A **task management app** using **Provider** and **Firebase**.  
-- Integrated **Firestore** and **Authentication** for secure data handling.  
-- Built a clean and organized UI for managing daily tasks.  
+<h2>💼 Internship</h2>
 
----
+<h3>🏢 Pharaonx | Flutter Developer Intern</h3>
+<p><b>07/2025 – 08/2025</b></p>
+<ul>
+  <li>Developed task & project management app integrated with Frappe ERP.</li>
+  <li>Implemented MVVM architecture and REST API integration.</li>
+  <li>Worked with authentication, SharedPreferences, and role-based access.</li>
+</ul>
 
-### 🩸 Blood Bank App (Private)  
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)]()
-[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)]()
-[![RealTime Database](https://img.shields.io/badge/Realtime%20DB-0288D1?logo=google-cloud&logoColor=white)]()
+<hr/>
 
-- A **blood donation app** that helps users find donors and track donations every 3 months.  
-- Built using **Firebase Realtime Database** for instant updates.  
-- Focused on reliability and community-based health support.  
+<h2>📘 Courses & Certifications</h2>
+<ul>
+  <li><b>Programming Fundamentals Diploma</b> – Route Academy</li>
+  <li><b>Flutter Development Diploma</b> – Route Academy</li>
+  <li>
+    <b>Flutter Payment Integration (Stripe & PayPal)</b> – 07/2025  
+    <br/>
+    <a href="https://drive.google.com/file/d/1fePpMiysF_xDjyq4PLzS1padHp58MOAg/view">
+      Certificate
+    </a>
+  </li>
+</ul>
 
----
+<hr/>
 
-## 💼 Internships
+<h2>🌍 Languages</h2>
+<ul>
+  <li>🇪🇬 Arabic – Native</li>
+  <li>🇬🇧 English – Good</li>
+</ul>
 
-### 🏢 Pharaonx | Flutter Developer Intern  
-📅 07/2025 – 08/2025  
-- Completed a Flutter internship where I developed a task and project management app integrated with **Frappe ERP** via **REST API**.  
-- Applied **MVVM architecture**, implemented authentication with Frappe, and used **SharedPreferences** for local storage.  
-- Gained hands-on experience in **Clean Code**, **OOP**, **state management**, and **role-based access control**.  
+<hr/>
 
----
-
-## 📘 Courses & Diplomas
-
-- 🎯 **Programming Fundamentals Diploma** – Route Academy  
-  Covered problem solving, basic data structures, and object-oriented programming in C++, SOLID Principles, and Clean Code. 
-
-- 📱 **Flutter Development Diploma** – Route Academy  
-  Learned UI design, state management, Firebase integration, and clean architecture in Flutter.
-
-- 💳 **Flutter Payment Integration: Stripe, PayPal & More** – (07/2025)  
-  [🎓 Certificate](https://drive.google.com/file/d/1fePpMiysF_xDjyq4PLzS1padHp58MOAg/view?usp=sharing)  
-  Built and integrated secure payment systems (**Stripe**, **PayPal**) into Flutter apps using **Cubit** and **Clean Architecture**.  
-  **Tech Stack:** Flutter, Cubit, Stripe, PayPal, Clean Architecture  
-
----
-
-## 🌍 Languages
-
-- 🇪🇬 Arabic (Native)  
-- 🇬🇧 English (Good)
-
----
-
-> 🚀 Always learning. Always building. Let’s connect and create something great!
+<p align="center">
+🚀 <b>Always learning. Always building.</b><br/>
+Let’s connect and create something great!
+</p>
