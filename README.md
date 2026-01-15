@@ -1,3 +1,41 @@
+<h1 align="center">👋 Hi there, I'm Keroles Hany Helmey</h1>
+<p align="center">
+  📱 Flutter Developer | 🇪🇬 Based in Egypt
+</p>
+
+<hr/>
+
+<h2>📬 Contact Me</h2>
+<ul>
+  <li>📧 Email: <a href="mailto:keroleshany293@gmail.com">keroleshany293@gmail.com</a></li>
+  <li>📱 Phone: +20 128 072 7579</li>
+  <li>🌐 LinkedIn: <a href="https://linkedin.com/in/keroles-hany">linkedin.com/in/keroles-hany</a></li>
+  <li>💻 GitHub: <a href="https://github.com/SWE-Keroles-Hany">github.com/SWE-Keroles-Hany</a></li>
+</ul>
+
+<hr/>
+
+<h2>🧑‍💻 Summary</h2>
+<p>
+Flutter Developer focused on building clean, responsive, and user-friendly mobile applications for Android and iOS.
+Strong foundation in Flutter, Dart, Cubit/Provider, Clean Architecture, and REST API integration through hands-on projects.
+Motivated junior developer eager to learn, grow, and contribute to high-quality, scalable applications.
+</p>
+
+<hr/>
+
+<h2>💼 Experience / Internships</h2>
+
+<h3>🏢 Pharaonx | Flutter Developer Intern</h3>
+<p><b>07/2025 – 08/2025</b></p>
+<ul>
+  <li>Developed task & project management app integrated with Frappe ERP.</li>
+  <li>Implemented MVVM architecture and REST API integration.</li>
+  <li>Worked with authentication, SharedPreferences, and role-based access.</li>
+</ul>
+
+<hr/>
+
 <h2>💼 Projects</h2>
 
 <h3>🍔 Hungry App (Food App)</h3>
@@ -81,3 +119,73 @@
   <li>Firebase Realtime Database.</li>
   <li>Donation reminders every 3 months.</li>
 </ul>
+
+<hr/>
+
+<h2>🛠️ Technical Skills</h2>
+
+<h3>💻 Programming Languages</h3>
+<ul>
+  <li>Java, C, C++, Python, Dart</li>
+</ul>
+
+<h3>📱 Mobile App Development</h3>
+<ul>
+  <li>Flutter, Firebase</li>
+  <li>State Management: Cubit, Provider</li>
+  <li>Authentication, Google Maps</li>
+  <li>Payment Integration (Stripe, PayPal)</li>
+  <li>Push & Local Notifications</li>
+  <li>Responsive UI, Theming, Localization</li>
+</ul>
+
+<h3>🏗 Software Engineering</h3>
+<ul>
+  <li>OOP, Data Structures, Algorithms</li>
+  <li>Problem Solving, Agile Methodology</li>
+</ul>
+
+<h3>🧩 Architecture & Design Patterns</h3>
+<ul>
+  <li>Clean Architecture, MVVM</li>
+  <li>SOLID Principles, Repository Pattern</li>
+</ul>
+
+<h3>🗄 Databases</h3>
+<ul>
+  <li>Firebase, MySQL, SQLite</li>
+</ul>
+
+<h3>🔧 Tools & Platforms</h3>
+<ul>
+  <li>Git, GitHub</li>
+  <li>Android Studio, VS Code</li>
+  <li>Postman, Figma, Firebase CLI</li>
+</ul>
+
+<hr/>
+
+<h2>📘 Courses & Certifications</h2>
+<ul>
+  <li><b>Programming Fundamentals Diploma</b> – Route Academy</li>
+  <li><b>Flutter Development Diploma</b> – Route Academy</li>
+  <li>
+    <b>Flutter Payment Integration (Stripe & PayPal)</b> – 07/2025  
+    <br/>
+    <a href="https://drive.google.com/file/d/1fePpMiysF_xDjyq4PLzS1padHp58MOAg/view">
+      Certificate
+    </a>
+  </li>
+</ul>
+
+<hr/>
+
+<h2>🌍 Languages</h2>
+<p>🇪🇬 Arabic – Native | 🇬🇧 English – Good</p>
+
+<hr/>
+
+<p align="center">
+🚀 <b>Always learning. Always building.</b><br/>
+Let’s connect and create something great!
+</p>
