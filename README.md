@@ -30,8 +30,17 @@ while continuously expanding my knowledge in Android development.
 
 <h2>💼 Experience & Internships</h2>
 
-<h3>🏢 [Company Name] | Mobile Developer</h3>
-<p><b>2025 – Present</b></p>
+<h3>🏢 Huma-Volve | Mobile Developer Intern</h3>
+<p><b> 05/2026– 06/2026 </b></p>
+
+<ul>
+  <li>Worked on two Flutter projects within a collaborative development team.</li>
+  <li>Developed features using BLoC, REST APIs, payment integration, and Clean Architecture.</li>
+  <li>Collaborated using GitHub for version control, feature integration, and team workflows.</li>
+</ul>
+
+<h3>🏢 [GraviLog] | Mobile Developer</h3>
+<p><b>12/2025– 03/2026</b></p>
 
 <ul>
   <li>Contributing to a production Flutter application published on Google Play.</li>
@@ -39,14 +48,6 @@ while continuously expanding my knowledge in Android development.
   <li>Collaborating with the development team using Git workflows, testing, and code reviews.</li>
 </ul>
 
-<h3>🏢 Huma-Volve | Mobile Developer Intern</h3>
-<p><b>One-Month Internship</b></p>
-
-<ul>
-  <li>Worked on two Flutter projects within a collaborative development team.</li>
-  <li>Developed features using BLoC, REST APIs, payment integration, and Clean Architecture.</li>
-  <li>Collaborated using GitHub for version control, feature integration, and team workflows.</li>
-</ul>
 
 <h3>🏢 Pharaonx | Mobile Developer Intern</h3>
 <p><b>07/2025 – 08/2025</b></p>
