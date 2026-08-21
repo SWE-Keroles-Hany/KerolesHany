@@ -30,7 +30,7 @@ while continuously expanding my knowledge in Android development.
 
 <h2>💼 Experience & Internships</h2>
 
-<h3>🏢 Flutter Developer — Production Application</h3>
+<h3>🏢 [Company Name] | Mobile Developer</h3>
 <p><b>2025 – Present</b></p>
 
 <ul>
@@ -39,7 +39,7 @@ while continuously expanding my knowledge in Android development.
   <li>Collaborating with the development team using Git workflows, testing, and code reviews.</li>
 </ul>
 
-<h3>🏢 Huma-Volve | Flutter Developer Intern</h3>
+<h3>🏢 Huma-Volve | Mobile Developer Intern</h3>
 <p><b>One-Month Internship</b></p>
 
 <ul>
@@ -48,7 +48,7 @@ while continuously expanding my knowledge in Android development.
   <li>Collaborated using GitHub for version control, feature integration, and team workflows.</li>
 </ul>
 
-<h3>🏢 Pharaonx | Flutter Developer Intern</h3>
+<h3>🏢 Pharaonx | Mobile Developer Intern</h3>
 <p><b>07/2025 – 08/2025</b></p>
 
 <ul>
@@ -161,10 +161,10 @@ GitHub Repository
   <li>Firebase</li>
   <li>Local Storage & Databases</li>
   <li>Payment Integration</li>
-  <li>Notifications</li>
+  <li>Push & Local Notifications</li>
 </ul>
 
-<h3>🏗 Architecture & State Management</h3>
+<h3>🏗️ Architecture & State Management</h3>
 
 <ul>
   <li>Clean Architecture</li>
@@ -176,7 +176,7 @@ GitHub Repository
   <li>Provider</li>
 </ul>
 
-<h3>🔌 Android Technologies</h3>
+<h3>🤖 Android Technologies</h3>
 
 <ul>
   <li>Jetpack Compose</li>
@@ -206,6 +206,7 @@ GitHub Repository
   <li>VS Code</li>
   <li>Postman</li>
   <li>Figma</li>
+  <li>Firebase CLI</li>
   <li>Debugging & Performance Optimization</li>
   <li>Code Reviews & Feature Branching</li>
 </ul>
@@ -225,11 +226,22 @@ GPA: 3.0 / 4.0
 <h2>📘 Courses & Certifications</h2>
 
 <ul>
-  <li><b>Flutter Development Diploma</b> — Route Academy</li>
-  <li><b>Programming Fundamentals Diploma</b> — Route Academy</li>
   <li>
-    <b>Flutter Payment Integration (Stripe & PayPal)</b>
-    —
+    <b>Android Development</b> — Maad Academy
+    <b>(04/2026 – 08/2026)</b>
+  </li>
+
+  <li>
+    <b>Flutter Development Diploma</b> — Route Academy
+  </li>
+
+  <li>
+    <b>Programming Fundamentals Diploma</b> — Route Academy
+  </li>
+
+  <li>
+    <b>Flutter Payment Integration (Stripe & PayPal)</b> — 07/2025
+    <br/>
     <a href="https://drive.google.com/file/d/1fePpMiysF_xDjyq4PLzS1padHp58MOAg/view">
       Certificate
     </a>
