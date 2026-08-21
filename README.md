@@ -1,177 +1,235 @@
-<h1 align="center">👋 Hi there, I'm Keroles Hany Helmey</h1>
+<h1 align="center">👋 Hi, I'm Keroles Hany Helmey</h1>
+
 <p align="center">
-  📱 Flutter Developer | 🇪🇬 Based in Egypt
+  📱 Mobile Developer | Flutter & Android
+</p>
+
+<p align="center">
+  <a href="mailto:keroleshany293@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/keroles-hany">LinkedIn</a> •
+  <a href="https://github.com/SWE-Keroles-Hany">GitHub</a>
 </p>
 
 <hr/>
 
-<h2>📬 Contact Me</h2>
+<h2>🧑‍💻 About Me</h2>
+
+<p>
+Mobile Developer and Computer Science graduate with hands-on experience in Flutter, Dart,
+Kotlin, and Jetpack Compose. Experienced in building cross-platform and native Android
+applications, integrating REST APIs and Firebase, and applying Clean Architecture, MVVM,
+and modern state management practices.
+</p>
+
+<p>
+Passionate about building scalable, maintainable, and high-quality mobile applications
+while continuously expanding my knowledge in Android development.
+</p>
+
+<hr/>
+
+<h2>💼 Experience & Internships</h2>
+
+<h3>🏢 Flutter Developer — Production Application</h3>
+<p><b>2025 – Present</b></p>
+
 <ul>
-  <li>📧 Email: <a href="mailto:keroleshany293@gmail.com">keroleshany293@gmail.com</a></li>
-  <li>📱 Phone: +20 128 072 7579</li>
-  <li>🌐 LinkedIn: <a href="https://linkedin.com/in/keroles-hany">linkedin.com/in/keroles-hany</a></li>
-  <li>💻 GitHub: <a href="https://github.com/SWE-Keroles-Hany">github.com/SWE-Keroles-Hany</a></li>
+  <li>Contributing to a production Flutter application published on Google Play.</li>
+  <li>Developing new features and fixing bugs using Flutter, GetX, Firebase, and REST APIs.</li>
+  <li>Collaborating with the development team using Git workflows, testing, and code reviews.</li>
 </ul>
 
-<hr/>
+<h3>🏢 Huma-Volve | Flutter Developer Intern</h3>
+<p><b>One-Month Internship</b></p>
 
-<h2>🧑‍💻 Summary</h2>
-<p>
-Flutter Developer focused on building clean, responsive, and user-friendly mobile applications for Android and iOS.
-Strong foundation in Flutter, Dart, Cubit/Provider, Clean Architecture, and REST API integration through hands-on projects.
-Motivated junior developer eager to learn, grow, and contribute to high-quality, scalable applications.
-</p>
-
-<hr/>
-
-<h2>💼 Experience / Internships</h2>
+<ul>
+  <li>Worked on two Flutter projects within a collaborative development team.</li>
+  <li>Developed features using BLoC, REST APIs, payment integration, and Clean Architecture.</li>
+  <li>Collaborated using GitHub for version control, feature integration, and team workflows.</li>
+</ul>
 
 <h3>🏢 Pharaonx | Flutter Developer Intern</h3>
 <p><b>07/2025 – 08/2025</b></p>
+
 <ul>
-  <li>Developed task & project management app integrated with Frappe ERP.</li>
-  <li>Implemented MVVM architecture and REST API integration.</li>
-  <li>Worked with authentication, SharedPreferences, and role-based access.</li>
+  <li>Developed features for a task and project management application integrated with Frappe ERP.</li>
+  <li>Worked with MVVM architecture, REST APIs, authentication, and role-based access.</li>
+  <li>Used Git-based workflows while collaborating within a development environment.</li>
 </ul>
 
 <hr/>
 
-<h2>💼 Projects</h2>
+<h2>🚀 Featured Projects</h2>
 
-<h3>🍔 Hungry App (Food App)</h3>
+<h3>📝 Online Exam App | Android Native</h3>
+
 <p>
-<a href="https://github.com/SWE-Keroles-Hany/hungry-app/tree/development">GitHub Repository</a> |
-<a href="https://drive.google.com/file/d/1-b2ZZrJBOpW2t35nkgMtM7aaECLWjpWV/view">APK Download</a>
+<b>Kotlin • Jetpack Compose • Retrofit • Koin • Room • MVVM • Clean Architecture</b>
 </p>
+
 <ul>
-  <li>Food ordering app for browsing restaurants and meals.</li>
-  <li>Built using Flutter with clean and responsive UI.</li>
-  <li>Implemented Cubit for state management.</li>
-  <li>Integrated REST APIs for dynamic food data.</li>
-  <li>Focused on performance, UX, and scalable structure.</li>
+  <li>Built an online exam application with exam browsing and search functionality.</li>
+  <li>Integrated REST APIs using Retrofit and Koin for Dependency Injection.</li>
+  <li>Implemented local data storage using Room Database.</li>
+  <li>Developed answer selection, submission, and result-checking features.</li>
 </ul>
 
-<h3>😊 Mood J</h3>
+<h3>🏠 Real Estate App | Flutter</h3>
+
 <p>
-<a href="https://github.com/SWE-Keroles-Hany/mood-j/tree/development">GitHub Repository</a> |
-<a href="https://drive.google.com/file/d/156OAYmilOGKKlj1tM6YuXoLoXBjpX1DW/view">APK Download</a>
+<b>Flutter • Cubit • REST APIs • Clean Architecture • Payment</b>
 </p>
+
 <ul>
-  <li>Mood tracking app to log and analyze daily emotions.</li>
-  <li>Built with Flutter and local SQLite storage.</li>
-  <li>Clean Architecture for scalability and maintainability.</li>
-  <li>Local notifications & multi-language support.</li>
-  <li>Supports text, emoji, photo, and voice notes.</li>
+  <li>Contributed to a real-estate application within a collaborative development team.</li>
+  <li>Developed 6+ screens, including payment-related features and core application flows.</li>
+  <li>Integrated REST APIs using Cubit while following Clean Architecture principles.</li>
 </ul>
 
-<h3>🛒 E-Commerce App</h3>
+<h3>🍔 Hungry App | Food Delivery</h3>
+
 <p>
-<a href="https://github.com/SWE-Keroles-Hany/e-commerce-app">GitHub Repository</a>
+<a href="https://github.com/SWE-Keroles-Hany/hungry-app/tree/development">
+GitHub Repository
+</a>
+|
+<a href="https://drive.google.com/file/d/1-b2ZZrJBOpW2t35nkgMtM7aaECLWjpWV/view">
+APK Download
+</a>
 </p>
+
+<p>
+<b>Flutter • Cubit • REST APIs • Firebase • Clean Architecture</b>
+</p>
+
 <ul>
-  <li>Complete shopping experience with cart and checkout.</li>
-  <li>REST API integration and Cubit state management.</li>
-  <li>Repository Pattern for scalable codebase.</li>
+  <li>Built a food delivery application with 9+ screens for browsing, cart, and order management.</li>
+  <li>Integrated 10+ REST API endpoints using Cubit and Clean Architecture.</li>
+  <li>Designed responsive and user-friendly interfaces across different screen sizes.</li>
+</ul>
+
+<h3>😊 MoodJ | Mood Tracking App</h3>
+
+<p>
+<a href="https://github.com/SWE-Keroles-Hany/mood-j/tree/development">
+GitHub Repository
+</a>
+|
+<a href="https://drive.google.com/file/d/156OAYmilOGKKlj1tM6YuXoLoXBjpX1DW/view">
+APK Download
+</a>
+</p>
+
+<p>
+<b>Flutter • SQLite • Clean Architecture • Notifications • Localization</b>
+</p>
+
+<ul>
+  <li>Developed a mood tracking application for logging and analyzing emotional patterns.</li>
+  <li>Implemented SQLite for local data persistence and notifications for daily engagement.</li>
+  <li>Added Clean Architecture and localization support for a scalable user experience.</li>
 </ul>
 
 <h3>💬 Chat App</h3>
-<p>
-<a href="https://github.com/SWE-Keroles-Hany/chat-app">GitHub Repository</a>
-</p>
-<ul>
-  <li>Real-time chat application with room-based discussions.</li>
-  <li>Firebase Authentication and Cloud Firestore Streams.</li>
-  <li>Clean Architecture with Cubit (BLoC).</li>
-</ul>
 
-<h3>🎬 Movies App</h3>
 <p>
-<a href="https://github.com/SWE-Keroles-Hany/Movies-App/tree/development">GitHub Repository</a>
+<a href="https://github.com/SWE-Keroles-Hany/chat-app">
+GitHub Repository
+</a>
 </p>
-<ul>
-  <li>Movie browsing app using REST API.</li>
-  <li>Clean Architecture with Cubit.</li>
-  <li>Loading, error handling, and adaptive UI.</li>
-</ul>
 
-<h3>🔥 News App</h3>
 <p>
-<a href="https://github.com/SWE-Keroles-Hany/News-App/tree/development">GitHub Repository</a>
+<b>Flutter • Firebase • Firestore • Cubit • Clean Architecture</b>
 </p>
-<ul>
-  <li>Categorized news app with live API data.</li>
-  <li>MVVM architecture with Cubit.</li>
-  <li>Responsive and clean UI.</li>
-</ul>
 
-<h3>✅ To-Do App</h3>
-<p>
-<a href="https://github.com/SWE-Keroles-Hany/To-Do-App/tree/todoapp">GitHub Repository</a>
-</p>
 <ul>
-  <li>Task management app using Provider.</li>
-  <li>Firebase Authentication & Firestore.</li>
-</ul>
-
-<h3>🩸 Blood Bank App (Private)</h3>
-<ul>
-  <li>Blood donation tracking app.</li>
-  <li>Firebase Realtime Database.</li>
-  <li>Donation reminders every 3 months.</li>
+  <li>Built a real-time chat application with room-based discussions.</li>
+  <li>Integrated Firebase Authentication and Cloud Firestore streams.</li>
 </ul>
 
 <hr/>
 
 <h2>🛠️ Technical Skills</h2>
 
-<h3>💻 Programming Languages</h3>
+<h3>📱 Mobile Development</h3>
+
 <ul>
-  <li>Java, C, C++, Python, Dart</li>
+  <li>Flutter & Dart</li>
+  <li>Android Development with Kotlin & Jetpack Compose</li>
+  <li>Responsive & Adaptive UI</li>
+  <li>REST API Integration</li>
+  <li>Firebase</li>
+  <li>Local Storage & Databases</li>
+  <li>Payment Integration</li>
+  <li>Notifications</li>
 </ul>
 
-<h3>📱 Mobile App Development</h3>
+<h3>🏗 Architecture & State Management</h3>
+
 <ul>
-  <li>Flutter, Firebase</li>
-  <li>State Management: Cubit, Provider</li>
-  <li>Authentication, Google Maps</li>
-  <li>Payment Integration (Stripe, PayPal)</li>
-  <li>Push & Local Notifications</li>
-  <li>Responsive UI, Theming, Localization</li>
+  <li>Clean Architecture</li>
+  <li>MVVM & MVC</li>
+  <li>SOLID Principles</li>
+  <li>Repository Pattern</li>
+  <li>BLoC / Cubit</li>
+  <li>GetX</li>
+  <li>Provider</li>
 </ul>
 
-<h3>🏗 Software Engineering</h3>
+<h3>🔌 Android Technologies</h3>
+
 <ul>
-  <li>OOP, Data Structures, Algorithms</li>
-  <li>Problem Solving, Agile Methodology</li>
+  <li>Jetpack Compose</li>
+  <li>Retrofit</li>
+  <li>Koin Dependency Injection</li>
+  <li>Room Database</li>
+  <li>Navigation Compose</li>
+  <li>Coroutines & Flow</li>
 </ul>
 
-<h3>🧩 Architecture & Design Patterns</h3>
+<h3>🗄️ Databases & Backend</h3>
+
 <ul>
-  <li>Clean Architecture, MVVM</li>
-  <li>SOLID Principles, Repository Pattern</li>
+  <li>Firebase Authentication</li>
+  <li>Cloud Firestore</li>
+  <li>SQLite</li>
+  <li>Room Database</li>
+  <li>Hive</li>
+  <li>RESTful APIs & JSON</li>
 </ul>
 
-<h3>🗄 Databases</h3>
-<ul>
-  <li>Firebase, MySQL, SQLite</li>
-</ul>
+<h3>🔧 Tools & Workflow</h3>
 
-<h3>🔧 Tools & Platforms</h3>
 <ul>
-  <li>Git, GitHub</li>
-  <li>Android Studio, VS Code</li>
-  <li>Postman, Figma, Firebase CLI</li>
+  <li>Git & GitHub</li>
+  <li>Android Studio</li>
+  <li>VS Code</li>
+  <li>Postman</li>
+  <li>Figma</li>
+  <li>Debugging & Performance Optimization</li>
+  <li>Code Reviews & Feature Branching</li>
 </ul>
 
 <hr/>
 
+<h2>🎓 Education</h2>
+
+<p>
+<b>Bachelor's Degree in Computer Science</b><br/>
+Assiut University — Class of 2026<br/>
+GPA: 3.0 / 4.0
+</p>
+
+<hr/>
+
 <h2>📘 Courses & Certifications</h2>
+
 <ul>
-  <li><b>Programming Fundamentals Diploma</b> – Route Academy</li>
-  <li><b>Flutter Development Diploma</b> – Route Academy</li>
+  <li><b>Flutter Development Diploma</b> — Route Academy</li>
+  <li><b>Programming Fundamentals Diploma</b> — Route Academy</li>
   <li>
-    <b>Flutter Payment Integration (Stripe & PayPal)</b> – 07/2025  
-    <br/>
+    <b>Flutter Payment Integration (Stripe & PayPal)</b>
+    —
     <a href="https://drive.google.com/file/d/1fePpMiysF_xDjyq4PLzS1padHp58MOAg/view">
       Certificate
     </a>
@@ -181,11 +239,16 @@ Motivated junior developer eager to learn, grow, and contribute to high-quality,
 <hr/>
 
 <h2>🌍 Languages</h2>
-<p>🇪🇬 Arabic – Native | 🇬🇧 English – Good</p>
+
+<p>
+🇪🇬 Arabic — Native &nbsp; | &nbsp;
+🇬🇧 English — Intermediate
+</p>
 
 <hr/>
 
 <p align="center">
-🚀 <b>Always learning. Always building.</b><br/>
-Let’s connect and create something great!
+  🚀 <b>Building, learning, and growing as a Mobile Developer.</b>
+  <br/>
+  Let's connect and build something great!
 </p>
