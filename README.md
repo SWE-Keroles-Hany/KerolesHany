@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Keroles Hany Helmey</h1>
 
 <p align="center">
-  <b>Junior Mobile Developer | Flutter & Android</b>
+  <b>Junior Mobile Software Engineer | Flutter & Android</b>
 </p>
 
 <p align="center">
